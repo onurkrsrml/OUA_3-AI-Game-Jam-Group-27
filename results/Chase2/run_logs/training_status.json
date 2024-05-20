@@ -1,0 +1,56 @@
+{
+    "Chase": {
+        "checkpoints": [
+            {
+                "steps": 499985,
+                "file_path": "results\\Chase2\\Chase\\Chase-499985.onnx",
+                "reward": 0.9908571392297745,
+                "creation_time": 1681451532.784553,
+                "auxillary_file_paths": [
+                    "results\\Chase2\\Chase\\Chase-499985.pt"
+                ]
+            },
+            {
+                "steps": 999990,
+                "file_path": "results\\Chase2\\Chase\\Chase-999990.onnx",
+                "reward": 0.9756933384471469,
+                "creation_time": 1681452563.1562762,
+                "auxillary_file_paths": [
+                    "results\\Chase2\\Chase\\Chase-999990.pt"
+                ]
+            },
+            {
+                "steps": 1176154,
+                "file_path": "results\\Chase2\\Chase\\Chase-1176154.onnx",
+                "reward": null,
+                "creation_time": 1681452915.9481974,
+                "auxillary_file_paths": [
+                    "results\\Chase2\\Chase\\Chase-1176154.pt"
+                ]
+            },
+            {
+                "steps": 1311974,
+                "file_path": "results\\Chase2\\Chase\\Chase-1311974.onnx",
+                "reward": 0.9884054094955728,
+                "creation_time": 1681479228.7664983,
+                "auxillary_file_paths": [
+                    "results\\Chase2\\Chase\\Chase-1311974.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1311974,
+            "file_path": "results\\Chase2\\Chase.onnx",
+            "reward": 0.9884054094955728,
+            "creation_time": 1681479228.7664983,
+            "auxillary_file_paths": [
+                "results\\Chase2\\Chase\\Chase-1311974.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.0+cpu"
+    }
+}

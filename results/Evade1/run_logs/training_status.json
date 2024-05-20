@@ -1,0 +1,65 @@
+{
+    "Evade": {
+        "checkpoints": [
+            {
+                "steps": 2223086,
+                "file_path": "results\\Evade1\\Evade\\Evade-2223086.onnx",
+                "reward": 0.4407917596399784,
+                "creation_time": 1681606312.5802581,
+                "auxillary_file_paths": [
+                    "results\\Evade1\\Evade\\Evade-2223086.pt"
+                ]
+            },
+            {
+                "steps": 2499912,
+                "file_path": "results\\Evade1\\Evade\\Evade-2499912.onnx",
+                "reward": 0.552923165834867,
+                "creation_time": 1681607543.3990393,
+                "auxillary_file_paths": [
+                    "results\\Evade1\\Evade\\Evade-2499912.pt"
+                ]
+            },
+            {
+                "steps": 2999998,
+                "file_path": "results\\Evade1\\Evade\\Evade-2999998.onnx",
+                "reward": 0.650916780034701,
+                "creation_time": 1681609362.0166616,
+                "auxillary_file_paths": [
+                    "results\\Evade1\\Evade\\Evade-2999998.pt"
+                ]
+            },
+            {
+                "steps": 3499899,
+                "file_path": "results\\Evade1\\Evade\\Evade-3499899.onnx",
+                "reward": 0.6208889765871896,
+                "creation_time": 1681611368.8491025,
+                "auxillary_file_paths": [
+                    "results\\Evade1\\Evade\\Evade-3499899.pt"
+                ]
+            },
+            {
+                "steps": 3948116,
+                "file_path": "results\\Evade1\\Evade\\Evade-3948116.onnx",
+                "reward": 0.42280006408691406,
+                "creation_time": 1681613033.330952,
+                "auxillary_file_paths": [
+                    "results\\Evade1\\Evade\\Evade-3948116.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3948116,
+            "file_path": "results\\Evade1\\Evade.onnx",
+            "reward": 0.42280006408691406,
+            "creation_time": 1681613033.330952,
+            "auxillary_file_paths": [
+                "results\\Evade1\\Evade\\Evade-3948116.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.0+cpu"
+    }
+}

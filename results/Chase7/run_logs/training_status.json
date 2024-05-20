@@ -1,0 +1,65 @@
+{
+    "Chase": {
+        "checkpoints": [
+            {
+                "steps": 2499940,
+                "file_path": "results\\Chase7\\Chase\\Chase-2499940.onnx",
+                "reward": 0.8443962380571185,
+                "creation_time": 1681588834.637123,
+                "auxillary_file_paths": [
+                    "results\\Chase7\\Chase\\Chase-2499940.pt"
+                ]
+            },
+            {
+                "steps": 2999930,
+                "file_path": "results\\Chase7\\Chase\\Chase-2999930.onnx",
+                "reward": 0.83833545785916,
+                "creation_time": 1681590044.8699036,
+                "auxillary_file_paths": [
+                    "results\\Chase7\\Chase\\Chase-2999930.pt"
+                ]
+            },
+            {
+                "steps": 3314613,
+                "file_path": "results\\Chase7\\Chase\\Chase-3314613.onnx",
+                "reward": 0.8286092110063837,
+                "creation_time": 1681590811.3245342,
+                "auxillary_file_paths": [
+                    "results\\Chase7\\Chase\\Chase-3314613.pt"
+                ]
+            },
+            {
+                "steps": 3499985,
+                "file_path": "results\\Chase7\\Chase\\Chase-3499985.onnx",
+                "reward": 0.8231666882832845,
+                "creation_time": 1681592498.69501,
+                "auxillary_file_paths": [
+                    "results\\Chase7\\Chase\\Chase-3499985.pt"
+                ]
+            },
+            {
+                "steps": 3672001,
+                "file_path": "results\\Chase7\\Chase\\Chase-3672001.onnx",
+                "reward": 0.8625175002571586,
+                "creation_time": 1681592914.1326292,
+                "auxillary_file_paths": [
+                    "results\\Chase7\\Chase\\Chase-3672001.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3672001,
+            "file_path": "results\\Chase7\\Chase.onnx",
+            "reward": 0.8625175002571586,
+            "creation_time": 1681592914.1326292,
+            "auxillary_file_paths": [
+                "results\\Chase7\\Chase\\Chase-3672001.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.0+cpu"
+    }
+}

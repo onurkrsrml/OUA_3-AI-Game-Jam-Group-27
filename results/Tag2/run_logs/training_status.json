@@ -1,0 +1,123 @@
+{
+    "Chase": {
+        "checkpoints": [
+            {
+                "steps": 1499880,
+                "file_path": "results\\Tag2\\Chase\\Chase-1499880.onnx",
+                "reward": -0.597937471466139,
+                "creation_time": 1681700913.651985,
+                "auxillary_file_paths": [
+                    "results\\Tag2\\Chase\\Chase-1499880.pt"
+                ]
+            },
+            {
+                "steps": 1999934,
+                "file_path": "results\\Tag2\\Chase\\Chase-1999934.onnx",
+                "reward": -0.19319998240098357,
+                "creation_time": 1681703108.527751,
+                "auxillary_file_paths": [
+                    "results\\Tag2\\Chase\\Chase-1999934.pt"
+                ]
+            },
+            {
+                "steps": 2499903,
+                "file_path": "results\\Tag2\\Chase\\Chase-2499903.onnx",
+                "reward": 0.3540833560594668,
+                "creation_time": 1681705323.334416,
+                "auxillary_file_paths": [
+                    "results\\Tag2\\Chase\\Chase-2499903.pt"
+                ]
+            },
+            {
+                "steps": 2557716,
+                "file_path": "results\\Tag2\\Chase\\Chase-2557716.onnx",
+                "reward": -0.3718695406316091,
+                "creation_time": 1681705585.3344915,
+                "auxillary_file_paths": [
+                    "results\\Tag2\\Chase\\Chase-2557716.pt"
+                ]
+            },
+            {
+                "steps": 2913343,
+                "file_path": "results\\Tag2\\Chase\\Chase-2913343.onnx",
+                "reward": 0.15500003532118475,
+                "creation_time": 1681708496.1205585,
+                "auxillary_file_paths": [
+                    "results\\Tag2\\Chase\\Chase-2913343.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2913343,
+            "file_path": "results\\Tag2\\Chase.onnx",
+            "reward": 0.15500003532118475,
+            "creation_time": 1681708496.1205585,
+            "auxillary_file_paths": [
+                "results\\Tag2\\Chase\\Chase-2913343.pt"
+            ]
+        }
+    },
+    "Evade": {
+        "checkpoints": [
+            {
+                "steps": 1499880,
+                "file_path": "results\\Tag2\\Evade\\Evade-1499880.onnx",
+                "reward": 0.6263750138750765,
+                "creation_time": 1681700913.7268178,
+                "auxillary_file_paths": [
+                    "results\\Tag2\\Evade\\Evade-1499880.pt"
+                ]
+            },
+            {
+                "steps": 1999934,
+                "file_path": "results\\Tag2\\Evade\\Evade-1999934.onnx",
+                "reward": 0.20553333995242914,
+                "creation_time": 1681703108.6364129,
+                "auxillary_file_paths": [
+                    "results\\Tag2\\Evade\\Evade-1999934.pt"
+                ]
+            },
+            {
+                "steps": 2499903,
+                "file_path": "results\\Tag2\\Evade\\Evade-2499903.onnx",
+                "reward": -0.33916665365298587,
+                "creation_time": 1681705323.4240315,
+                "auxillary_file_paths": [
+                    "results\\Tag2\\Evade\\Evade-2499903.pt"
+                ]
+            },
+            {
+                "steps": 2557716,
+                "file_path": "results\\Tag2\\Evade\\Evade-2557716.onnx",
+                "reward": 0.3758695909915411,
+                "creation_time": 1681705585.404753,
+                "auxillary_file_paths": [
+                    "results\\Tag2\\Evade\\Evade-2557716.pt"
+                ]
+            },
+            {
+                "steps": 2913343,
+                "file_path": "results\\Tag2\\Evade\\Evade-2913343.onnx",
+                "reward": -0.557041636823366,
+                "creation_time": 1681708496.023216,
+                "auxillary_file_paths": [
+                    "results\\Tag2\\Evade\\Evade-2913343.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2913343,
+            "file_path": "results\\Tag2\\Evade.onnx",
+            "reward": -0.557041636823366,
+            "creation_time": 1681708496.023216,
+            "auxillary_file_paths": [
+                "results\\Tag2\\Evade\\Evade-2913343.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.0+cpu"
+    }
+}

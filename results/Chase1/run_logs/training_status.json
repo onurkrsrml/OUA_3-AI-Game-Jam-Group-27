@@ -1,0 +1,47 @@
+{
+    "Chase": {
+        "checkpoints": [
+            {
+                "steps": 333205,
+                "file_path": "results\\Chase1\\Chase\\Chase-333205.onnx",
+                "reward": 1.0,
+                "creation_time": 1681449022.4796457,
+                "auxillary_file_paths": [
+                    "results\\Chase1\\Chase\\Chase-333205.pt"
+                ]
+            },
+            {
+                "steps": 499945,
+                "file_path": "results\\Chase1\\Chase\\Chase-499945.onnx",
+                "reward": 0.9985217490921849,
+                "creation_time": 1681449544.4380774,
+                "auxillary_file_paths": [
+                    "results\\Chase1\\Chase\\Chase-499945.pt"
+                ]
+            },
+            {
+                "steps": 724519,
+                "file_path": "results\\Chase1\\Chase\\Chase-724519.onnx",
+                "reward": 0.9997142893927438,
+                "creation_time": 1681450007.2952921,
+                "auxillary_file_paths": [
+                    "results\\Chase1\\Chase\\Chase-724519.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 724519,
+            "file_path": "results\\Chase1\\Chase.onnx",
+            "reward": 0.9997142893927438,
+            "creation_time": 1681450007.2952921,
+            "auxillary_file_paths": [
+                "results\\Chase1\\Chase\\Chase-724519.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.0+cpu"
+    }
+}
